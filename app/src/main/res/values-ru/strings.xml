@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Погода</string>
+    <string name="city_name">Уфа</string>
+    <string name="temperature_value">-12°C</string>
+    <string name="weather">Переменная облачность</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="next_day">Послезавтра</string>
+
 </resources>
